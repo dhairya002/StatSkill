@@ -46,9 +46,7 @@ Each question is mapped to a specific competency. After the assessment, the syst
 - PDF.js
 - QuML / Sunbird assessment format
 
-## Screenshots
 
-Screenshots can be added here after the project is deployed.
 
 ## SIH Problem Statement
 
@@ -64,15 +62,14 @@ StatSkill is a prototype addressing the competency assessment requirements descr
 
 **Team:** DevOOPS
 
-**Institution:** OCT
+**Institution:** Oreintal College Of Technology(OCT)
 
 **Branch/Section:** CSE-B
 
 **Year:** First Year
 
-**Author:** Jeevesh Dev
+**Author:** Dhairya Agrawal
 
-> Update the team details above if your official team information is different.
 
 ## Future Scope
 
